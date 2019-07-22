@@ -1,0 +1,1 @@
+add_conventional_executable_tests(PRIVATE catalyst_v0 testing_v1)

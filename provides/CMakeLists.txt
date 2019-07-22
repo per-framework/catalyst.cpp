@@ -1,0 +1,2 @@
+add_conventional_library(catalyst_v0)
+target_link_libraries(catalyst_v0 INTERFACE polyfill_v1)
